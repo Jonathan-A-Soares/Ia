@@ -1,0 +1,21 @@
+{
+    "Game1": {
+        "Title": "Creature in the Well"
+    },
+    "Game2": {
+        "Title": "Tales of the Neon Sea"
+    },
+    "Game3": {
+        "Title": "Jurassic World Evolution"
+    },
+    "Game4": {
+        "Title": "Torchlight II"
+    },
+    "Game5": {
+        "Title": "Stranded Deep"
+    },
+    "AtualFeeGame": {
+        "Title": "Creature in the Well",
+        "endDate": "2021-04-01T15:00:00.000Z"
+    }
+}

@@ -1,0 +1,37 @@
+deviceMc() Dispositivos 
+pauseMc() Pausa Musica
+startMc() Inicia Musica
+skipNextMc() Pula Proxima Musica
+statusMc() Status Momento Atual
+skipUndoMc() Pula Musica Anterio
+repetMc(state) Liga Desliga Repetição 
+shearchMc(tipe,Psq,limit) Pesquisa
+volumeMc(vol) Muda Volume Para Setado
+volumeUpMc() Almenta volume 10
+volumeDowMc() Diminiu Volume 10
+DeviceMudMc(id) Muda Onde Esta Sendo Reproduçao 
+userMc() Coleta Informações DO usuario atual
+shuffleMc(State) Modo Aletorio
+startMusicMc(idMc,toc) Inicia Musica  com id
+ShearPlayMc(Psq) Pesquisa musica e Inica 
+startPlayPlaylistMc(playlist) TOca Uma playlist
+albumListMc() Lista albums
+libraryMc() Lista Playlist
+HistoryMc() Lista historioc
+volumeMuteMc() Limita volumeem 0
+volumeUnMuteMc() Volta volume para normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

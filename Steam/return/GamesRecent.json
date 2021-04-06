@@ -1,0 +1,18 @@
+{
+    "response": {
+        "total_count": 1,
+        "games": [
+            {
+                "appid": 438100,
+                "name": "VRChat",
+                "playtime_2weeks": 35,
+                "playtime_forever": 73,
+                "img_icon_url": "52c5f93bd9f8de008307f5fad95023600267462c",
+                "img_logo_url": "62385c4bb53297d192a76829fce5d05b1f28ab90",
+                "playtime_windows_forever": 35,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "id": "ba144984976c5ce6794afc4ece5c588c78782cd2",
+            "is_active": false,
+            "is_private_session": false,
+            "is_restricted": false,
+            "name": "LAPTOP-QM3N2NF7",
+            "type": "Computer",
+            "volume_percent": 62
+        }
+    ]
+}

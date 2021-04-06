@@ -1,0 +1,402 @@
+{
+    "PlayList0": {
+        "Nome": "Falling",
+        "Uri": "spotify:track:4TnjEaWOeW0eKTKIEvJyCa",
+        "Data": "2021-03-24T01:44:07.680Z",
+        "Artista": "Trevor Daniel",
+        "Album": "Falling",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList1": {
+        "Nome": "Army",
+        "Uri": "spotify:track:2cGYpPNtn60ceiB7ddfEpw",
+        "Data": "2021-03-24T01:41:27.830Z",
+        "Artista": "Besomorph",
+        "Album": "Army",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList2": {
+        "Nome": "Who I Am",
+        "Uri": "spotify:track:4zIJHigfguvdm3O8c9KPeo",
+        "Data": "2021-03-24T01:38:03.833Z",
+        "Artista": "The Score",
+        "Album": "ATLAS",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList3": {
+        "Nome": "Down With The Fallen",
+        "Uri": "spotify:track:4E3s5At5T0YBmFikRO5Ybu",
+        "Data": "2021-03-24T01:34:27.600Z",
+        "Artista": "STARSET",
+        "Album": "Transmissions (Deluxe Version)",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList4": {
+        "Nome": "As We Fall",
+        "Uri": "spotify:track:6piIJpTPBi60m8nb4f9eyG",
+        "Data": "2021-03-24T01:30:09.544Z",
+        "Artista": "League of Legends",
+        "Album": "As We Fall",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList5": {
+        "Nome": "Walking The Wire",
+        "Uri": "spotify:track:1y3bE5i57eUm3hfLAc7h08",
+        "Data": "2021-03-24T01:26:59.445Z",
+        "Artista": "Imagine Dragons",
+        "Album": "Evolve",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList6": {
+        "Nome": "idk wts",
+        "Uri": "spotify:track:2WqnxUbIu0CXjdRUqhQDLp",
+        "Data": "2021-03-24T01:23:06.025Z",
+        "Artista": "Omri",
+        "Album": "idk wts",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList7": {
+        "Nome": "Rolling Stone",
+        "Uri": "spotify:track:3buPJEIHYVuKh2VAMNYe09",
+        "Data": "2021-03-24T01:20:51.645Z",
+        "Artista": "Biometrix",
+        "Album": "Rolling Stone",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList8": {
+        "Nome": "Never Meant to Be",
+        "Uri": "spotify:track:0MZ2Za6WjvFWBcoojKgyqX",
+        "Data": "2021-03-24T01:17:46.214Z",
+        "Artista": "Welshly Arms",
+        "Album": "Welshly Arms",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList9": {
+        "Nome": "Freak",
+        "Uri": "spotify:track:5XUoZT3w9ISa1jPqho0dDd",
+        "Data": "2021-03-24T01:14:49.944Z",
+        "Artista": "UNDREAM",
+        "Album": "Freak",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList10": {
+        "Nome": "My Mind",
+        "Uri": "spotify:track:5iFtV5cMvIdUrDy5eO4Xr6",
+        "Data": "2021-03-24T01:11:22.773Z",
+        "Artista": "Mickey Valen",
+        "Album": "My Mind",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList11": {
+        "Nome": "Snitch on Myself",
+        "Uri": "spotify:track:7akP0rEcKyloe5NJjMEGCG",
+        "Data": "2021-03-24T01:09:00.566Z",
+        "Artista": "neverwaves",
+        "Album": "Snitch on Myself",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList12": {
+        "Nome": "useless",
+        "Uri": "spotify:track:1vsxgWi9LST87Z26Sog6jR",
+        "Data": "2021-03-24T01:06:21.936Z",
+        "Artista": "updog",
+        "Album": "balloon boy",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList13": {
+        "Nome": "Nothin' Like This",
+        "Uri": "spotify:track:0CDCys9DVUqmqTzEAgMSWj",
+        "Data": "2021-03-24T01:03:59.805Z",
+        "Artista": "The Phantoms",
+        "Album": "Nothin' Like This - Single",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList14": {
+        "Nome": "River",
+        "Uri": "spotify:track:3mRLHiSHYtC8Hk7bzZdUs1",
+        "Data": "2021-03-24T01:00:18.657Z",
+        "Artista": "Bishop Briggs",
+        "Album": "Church Of Scars",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList15": {
+        "Nome": "Never Going Back",
+        "Uri": "spotify:track:4hT5NcdAwYryjYrJn7ttFo",
+        "Data": "2021-03-24T00:56:42.033Z",
+        "Artista": "The Score",
+        "Album": "ATLAS (Deluxe)",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList16": {
+        "Nome": "Isolate",
+        "Uri": "spotify:track:38Q8yIOln642E3v8wl1Ifq",
+        "Data": "2021-03-24T00:53:23.875Z",
+        "Artista": "Sub Urban",
+        "Album": "Isolate",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList17": {
+        "Nome": "Virtual Reality",
+        "Uri": "spotify:track:2uFbve9pCC5yNuYdMZlvWj",
+        "Data": "2021-03-24T00:51:00.402Z",
+        "Artista": "rey",
+        "Album": "Virtual Reality",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList18": {
+        "Nome": "Sweet Dreams (Are Made Of This)",
+        "Uri": "spotify:track:2302lUwfZ4S4dVyPOCDFnQ",
+        "Data": "2021-03-24T00:48:31.907Z",
+        "Artista": "Marilyn Manson",
+        "Album": "Smells Like Children",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList19": {
+        "Nome": "FMO",
+        "Uri": "spotify:track:2YsPSYmKO2Tg5JJbsFcRlY",
+        "Data": "2021-03-24T00:43:38.129Z",
+        "Artista": "Unlike Pluto",
+        "Album": "Messy Mind",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList20": {
+        "Nome": "Death of Me",
+        "Uri": "spotify:track:2rNNrLzOOG4n4yMiNSy8dQ",
+        "Data": "2021-03-24T00:39:58.702Z",
+        "Artista": "SAINT PHNX",
+        "Album": "DDMN",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList21": {
+        "Nome": "Wicked Ones",
+        "Uri": "spotify:track:1ogRu1dOUgHvel8To8oQbe",
+        "Data": "2021-03-24T00:37:05.531Z",
+        "Artista": "Dorothy",
+        "Album": "ROCKISDEAD",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList22": {
+        "Nome": "Legend",
+        "Uri": "spotify:track:3SWqGa1J0M7hSBUDM0KePD",
+        "Data": "2021-03-24T00:34:12.505Z",
+        "Artista": "The Score",
+        "Album": "ATLAS",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList23": {
+        "Nome": "You Are",
+        "Uri": "spotify:track:7mzIXEugIlJbkK61DJmSfg",
+        "Data": "2021-03-24T00:31:02.906Z",
+        "Artista": "Alex Holmes",
+        "Album": "You Are",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList24": {
+        "Nome": "idk wts",
+        "Uri": "spotify:track:2WqnxUbIu0CXjdRUqhQDLp",
+        "Data": "2021-03-24T00:27:56.634Z",
+        "Artista": "Omri",
+        "Album": "idk wts",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList25": {
+        "Nome": "Wouldn't You Agree",
+        "Uri": "spotify:track:7z8qDZw3E5QIf2SBuKIAmo",
+        "Data": "2021-03-24T00:25:42.278Z",
+        "Artista": "Unlike Pluto",
+        "Album": "Wouldn't You Agree",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList26": {
+        "Nome": "Let It Die",
+        "Uri": "spotify:track:0AymccBBOrW0qTr7bSJn3u",
+        "Data": "2021-03-24T00:22:05.161Z",
+        "Artista": "STARSET",
+        "Album": "Transmissions (Deluxe Version)",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList27": {
+        "Nome": "Eye For An Eye",
+        "Uri": "spotify:track:2pyHuyerTOg6v0BMrJb8lL",
+        "Data": "2021-03-24T00:17:32.474Z",
+        "Artista": "8 Graves",
+        "Album": "Red",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList28": {
+        "Nome": "All Of Me (feat. Travis Barker)",
+        "Uri": "spotify:track:0CYGfkshuWIKLkBBN4dkYF",
+        "Data": "2021-03-24T00:14:06.363Z",
+        "Artista": "The Score",
+        "Album": "Carry On",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList29": {
+        "Nome": "idk wts",
+        "Uri": "spotify:track:2WqnxUbIu0CXjdRUqhQDLp",
+        "Data": "2021-03-24T00:11:22.365Z",
+        "Artista": "Omri",
+        "Album": "idk wts",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList30": {
+        "Nome": "Begging To Bleed",
+        "Uri": "spotify:track:0V6frMxd651nA8suT4tfku",
+        "Data": "2021-03-24T00:09:08.023Z",
+        "Artista": "8 Graves",
+        "Album": "Red",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList31": {
+        "Nome": "Never Done This",
+        "Uri": "spotify:track:3wB3ViZucTbRoHARLYWfoB",
+        "Data": "2021-03-24T00:05:41.412Z",
+        "Artista": "twocolors",
+        "Album": "Never Done This",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList32": {
+        "Nome": "Ur Perfect I Hate It",
+        "Uri": "spotify:track:5YNhWD5BXfa3q61afXkcFK",
+        "Data": "2021-03-24T00:02:44.305Z",
+        "Artista": "Mickey Valen",
+        "Album": "Ur Perfect I Hate It",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList33": {
+        "Nome": "Feeling Great",
+        "Uri": "spotify:track:5DfAwDDa13acCSj7j6H4MY",
+        "Data": "2021-03-24T00:00:22.689Z",
+        "Artista": "Sdms",
+        "Album": "Feeling Great",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList34": {
+        "Nome": "Ghost Town",
+        "Uri": "spotify:track:1b7DozY0xHWXU1T84Lck1z",
+        "Data": "2021-03-23T23:57:18.030Z",
+        "Artista": "Layto",
+        "Album": "Ghost Town",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList35": {
+        "Nome": "End Of The World",
+        "Uri": "spotify:track:5IQ4qT8K20kjLADO8qAImk",
+        "Data": "2021-03-23T23:54:03.731Z",
+        "Artista": "Arcando",
+        "Album": "End Of The World",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList36": {
+        "Nome": "King of the Damned",
+        "Uri": "spotify:track:1tBYFeSNvHfVNeiLtn7EBR",
+        "Data": "2021-03-23T23:51:12.034Z",
+        "Artista": "Barren Gates",
+        "Album": "King of the Damned",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList37": {
+        "Nome": "Street Fight",
+        "Uri": "spotify:track:36pwoWh6xqOShF8X6AZmzQ",
+        "Data": "2021-03-23T23:47:11.579Z",
+        "Artista": "Adam Jensen",
+        "Album": "Street Fight",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList38": {
+        "Nome": "Weddings & Funerals",
+        "Uri": "spotify:track:5XGjHvW9kqp8QqFpMHmESt",
+        "Data": "2021-03-23T23:43:59.850Z",
+        "Artista": "Royal & the Serpent",
+        "Album": "Weddings & Funerals",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList39": {
+        "Nome": "Sad (feat. Afrojack) - VIZE Remix",
+        "Uri": "spotify:track:2X4A2xCfq8ZkQgTWt7Xmvj",
+        "Data": "2021-03-23T23:41:02.811Z",
+        "Artista": "Chico Rose",
+        "Album": "Sad (feat. Afrojack) [VIZE Remix]",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList40": {
+        "Nome": "impress you",
+        "Uri": "spotify:track:1HIEZNMjhdie0ek5x59guO",
+        "Data": "2021-03-23T23:38:22.318Z",
+        "Artista": "updog",
+        "Album": "bouncy boy",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList41": {
+        "Nome": "Play with Fire (feat. Yacht Money)",
+        "Uri": "spotify:track:7vguMCv8uVuZLiQJ156u3Z",
+        "Data": "2021-03-23T23:35:48.524Z",
+        "Artista": "Sam Tinnesz",
+        "Album": "Play with Fire (feat. Yacht Money)",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList42": {
+        "Nome": "Twisted",
+        "Uri": "spotify:track:4TQcARE7Fd58akNhr3N7AE",
+        "Data": "2021-03-23T23:32:47.628Z",
+        "Artista": "MISSIO",
+        "Album": "Loner",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList43": {
+        "Nome": "Lost My Mind",
+        "Uri": "spotify:track:1TRkBANxImuCUOIgd2ilh6",
+        "Data": "2021-03-23T23:29:04.149Z",
+        "Artista": "inverness",
+        "Album": "Lost My Mind",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList44": {
+        "Nome": "Fire Drill",
+        "Uri": "spotify:track:6TNWeqDnqdqIQWYMWZmzTA",
+        "Data": "2021-03-23T23:24:16.296Z",
+        "Artista": "Melanie Martinez",
+        "Album": "Fire Drill",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList45": {
+        "Nome": "BUBBLES",
+        "Uri": "spotify:track:7hFZu37rmQxzAp0M1NqJ7P",
+        "Data": "2021-03-23T23:20:00.692Z",
+        "Artista": "Tokyo Machine",
+        "Album": "BUBBLES",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList46": {
+        "Nome": "My Mind",
+        "Uri": "spotify:track:5iFtV5cMvIdUrDy5eO4Xr6",
+        "Data": "2021-03-23T23:16:09.619Z",
+        "Artista": "Mickey Valen",
+        "Album": "My Mind",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList47": {
+        "Nome": "Fuck You",
+        "Uri": "spotify:track:6gkqY0rDnrzGwGpFyTugi9",
+        "Data": "2021-03-23T23:13:47.446Z",
+        "Artista": "Silent Child",
+        "Album": "Fuck You",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList48": {
+        "Nome": "V for My Vendetta",
+        "Uri": "spotify:track:3d9xi8wbu52AIdpnLbeCYZ",
+        "Data": "2021-03-23T23:10:43.597Z",
+        "Artista": "Alter.",
+        "Album": "V for My Vendetta",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    },
+    "PlayList49": {
+        "Nome": "Don't Wait for Me",
+        "Uri": "spotify:track:4X61hYQTXhHUYMI91UZFa7",
+        "Data": "2021-03-23T23:07:42.203Z",
+        "Artista": "Unlike Pluto",
+        "Album": "Don't Wait for Me",
+        "Playlist": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+    }
+}

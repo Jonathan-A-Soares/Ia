@@ -1,0 +1,590 @@
+[
+    {
+        "title": "Creature in the Well",
+        "id": "000f9a594ed44b3981272946d330d968",
+        "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+        "description": "Creature in the Well",
+        "effectiveDate": "2021-03-25T15:00:00.000Z",
+        "offerType": "BASE_GAME",
+        "expiryDate": null,
+        "status": "ACTIVE",
+        "isCodeRedemptionOnly": false,
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+            "name": "MWM Interactive"
+        },
+        "productSlug": "creature-in-the-well",
+        "urlSlug": "tingeneralaudience",
+        "url": null,
+        "items": [
+            {
+                "id": "a828b3ba58454bc6bf5457b1ea144685",
+                "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "publisherName",
+                "value": "MWM Interactive"
+            },
+            {
+                "key": "developerName",
+                "value": "Flight School Studio"
+            },
+            {
+                "key": "com.epicgames.app.productSlug",
+                "value": "creature-in-the-well"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "applications"
+            }
+        ],
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1263"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 1499,
+                "voucherDiscount": 0,
+                "discount": 1499,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "$14.99",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "f89714c309b64d85a38ee98e5ee48413",
+                            "endDate": "2021-04-01T15:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "promotions": {
+            "promotionalOffers": [
+                {
+                    "promotionalOffers": [
+                        {
+                            "startDate": "2021-03-25T15:00:00.000Z",
+                            "endDate": "2021-04-01T15:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE",
+                                "discountPercentage": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "upcomingPromotionalOffers": []
+        }
+    },
+    {
+        "title": "Tales of the Neon Sea",
+        "id": "b5e5f4fbdd4a40348c3a9a554f076922",
+        "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+        "description": "Tales of the Neon Sea",
+        "effectiveDate": "2021-04-01T15:00:00.000Z",
+        "offerType": "BASE_GAME",
+        "expiryDate": null,
+        "status": "ACTIVE",
+        "isCodeRedemptionOnly": false,
+        "keyImages": [
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/Hero Art_TotNS_031821-1920x1080-3386e5a6eebd354045f16499840d1271.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/Hero Art_TotNS_031821-1920x1080-3386e5a6eebd354045f16499840d1271.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+            "name": "Thermite Games"
+        },
+        "productSlug": "tales-of-the-neon-sea",
+        "urlSlug": "antimonygeneralaudience",
+        "url": null,
+        "items": [
+            {
+                "id": "041930cc3fdd415ab42977a6ae499ecd",
+                "namespace": "37e6d41ce91e44988190c2f10108d4e9"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "publisherName",
+                "value": "Thermite Games"
+            },
+            {
+                "key": "developerName",
+                "value": "Palm Pioneer"
+            },
+            {
+                "key": "com.epicgames.app.productSlug",
+                "value": "tales-of-the-neon-sea"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "applications"
+            }
+        ],
+        "tags": [
+            {
+                "id": "1298"
+            },
+            {
+                "id": "1127"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1117"
+            },
+            {
+                "id": "9549"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 0,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "0",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "promotions": {
+            "promotionalOffers": [],
+            "upcomingPromotionalOffers": [
+                {
+                    "promotionalOffers": [
+                        {
+                            "startDate": "2021-04-01T15:00:00.000Z",
+                            "endDate": "2021-04-08T15:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE",
+                                "discountPercentage": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Jurassic World Evolution",
+        "id": "e58e33fc6aa449469b6d2fe02f52e4e4",
+        "namespace": "d5241c76f178492ea1540fce45616757",
+        "description": "Jurassic World Evolution",
+        "effectiveDate": "2099-01-01T00:00:00.000Z",
+        "offerType": "OTHERS",
+        "expiryDate": null,
+        "status": "ACTIVE",
+        "isCodeRedemptionOnly": true,
+        "keyImages": [
+            {
+                "type": "VaultClosed",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_31_1920x1080_Teaser-1920x1080-68876bdc4a75589c69e221b6a00581a3.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_JurassicWorldEvolution_1920x1080_Teaser-R-1920x1080-26f66b9b2bc29ce9bf2b87abe2efbfab.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+        },
+        "productSlug": "jurassic-world-evolution",
+        "urlSlug": "december31mysterygame",
+        "url": null,
+        "items": [
+            {
+                "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+                "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "com.epicgames.app.freegames.vault.close",
+                "value": "[]"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.slug",
+                "value": "news/the-holiday-sale-returns-on-december-17-plus-15-free-games"
+            },
+            {
+                "key": "com.epicgames.app.blacklist",
+                "value": "[]"
+            },
+            {
+                "key": "publisherName",
+                "value": "Frontier Developments"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.open",
+                "value": "[]"
+            },
+            {
+                "key": "developerName",
+                "value": "Frontier Developments"
+            },
+            {
+                "key": "com.epicgames.app.productSlug",
+                "value": "jurassic-world-evolution"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames/vaulted"
+            },
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "applications"
+            }
+        ],
+        "tags": [],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 0,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "0",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "promotions": null
+    },
+    {
+        "title": "Torchlight II",
+        "id": "af887062235447459380559888ee5b97",
+        "namespace": "d5241c76f178492ea1540fce45616757",
+        "description": "Torchlight II",
+        "effectiveDate": "2099-01-01T00:00:00.000Z",
+        "offerType": "OTHERS",
+        "expiryDate": null,
+        "status": "ACTIVE",
+        "isCodeRedemptionOnly": true,
+        "keyImages": [
+            {
+                "type": "VaultClosed",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_30_1920x1080_Teaser-1920x1080-0bb081e7879c49cd68f242c49a2ec55c.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_TorchlightII_1920x1080_Teaser-R-1920x1080-f6aec62524340cff0d7489f7fee95b87.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+        },
+        "productSlug": "torchlight-2",
+        "urlSlug": "december30mysterygame",
+        "url": null,
+        "items": [
+            {
+                "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+                "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "com.epicgames.app.freegames.vault.close",
+                "value": "[]"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.slug",
+                "value": "news/the-holiday-sale-returns-on-december-17-plus-15-free-games"
+            },
+            {
+                "key": "com.epicgames.app.blacklist",
+                "value": "[]"
+            },
+            {
+                "key": "publisherName",
+                "value": "Perfect World Entertainment"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.open",
+                "value": "[]"
+            },
+            {
+                "key": "developerName",
+                "value": "Runic Games"
+            },
+            {
+                "key": "com.epicgames.app.productSlug",
+                "value": "torchlight-2"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames/vaulted"
+            },
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "applications"
+            }
+        ],
+        "tags": [],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 0,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "0",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "promotions": null
+    },
+    {
+        "title": "Stranded Deep",
+        "id": "45fffdd898b543cfaadb6072d9dfaa58",
+        "namespace": "d5241c76f178492ea1540fce45616757",
+        "description": "Stranded Deep",
+        "effectiveDate": "2099-01-01T00:00:00.000Z",
+        "offerType": "OTHERS",
+        "expiryDate": null,
+        "status": "ACTIVE",
+        "isCodeRedemptionOnly": true,
+        "keyImages": [
+            {
+                "type": "VaultClosed",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_28_1920x1080_Teaser-1920x1080-cf3e4beebe9d0a36064acf6d0bdb3217.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_StrandedDeep_1920x1080_Teaser-R-1920x1080-0b2d3e3f9f64712b216a98091e3cb4f8.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+            "name": "Epic Dev Test Account"
+        },
+        "productSlug": "stranded-deep/home",
+        "urlSlug": "december28mysterygame",
+        "url": null,
+        "items": [
+            {
+                "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+                "namespace": "d5241c76f178492ea1540fce45616757"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "com.epicgames.app.freegames.vault.close",
+                "value": "[]"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.slug",
+                "value": "news/the-holiday-sale-returns-on-december-17-plus-15-free-games"
+            },
+            {
+                "key": "com.epicgames.app.blacklist",
+                "value": "[]"
+            },
+            {
+                "key": "publisherName",
+                "value": "Beam Team Publishing"
+            },
+            {
+                "key": "com.epicgames.app.freegames.vault.open",
+                "value": "[]"
+            },
+            {
+                "key": "developerName",
+                "value": "Beam Team Games"
+            },
+            {
+                "key": "com.epicgames.app.productSlug",
+                "value": "stranded-deep/home"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames/vaulted"
+            },
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "applications"
+            }
+        ],
+        "tags": [],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 0,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "USD",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "0",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "promotions": null
+    }
+]

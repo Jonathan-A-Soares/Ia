@@ -1,0 +1,1850 @@
+{
+    "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8E45oyErNQol"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8E45oyErNQol",
+            "id": "37i9dQZF1E8E45oyErNQol",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/0BxE4FqsDD1Ot4YuBXwAPp/en",
+                    "width": null
+                }
+            ],
+            "name": "505 Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMGEwNzM0M2E3ZmVhMTk3MmJmOWU2ZTRhOWY0ODNkYWI5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8E45oyErNQol/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8E45oyErNQol"
+        },
+        {
+            "collaborative": true,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4EvSIlgkNDSQ1KJLqNKUAq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4EvSIlgkNDSQ1KJLqNKUAq",
+            "id": "4EvSIlgkNDSQ1KJLqNKUAq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb245d876820c40b4b44fc15bc",
+                    "width": null
+                }
+            ],
+            "name": "Party?",
+            "owner": {
+                "display_name": "bruxobum13",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+                },
+                "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+                "id": "lje4xcplk8eowol9u1n0gmiqo",
+                "type": "user",
+                "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDU5LDA3ZmQ5N2VlMmMxODJhZWE3ZDgzODNjYWMzNDg3NjViNGZlMTI3Nzc=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4EvSIlgkNDSQ1KJLqNKUAq/tracks",
+                "total": 280
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4EvSIlgkNDSQ1KJLqNKUAq"
+        },
+        {
+            "collaborative": false,
+            "description": "A daily selection of chill beats - perfect to help you relax &amp; study \ud83d\udcda",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0vvXsWCC9xrXsKd4FyS8kM",
+            "id": "0vvXsWCC9xrXsKd4FyS8kM",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb163aeea48afe86ed0c55bfcd",
+                    "width": null
+                }
+            ],
+            "name": "lofi hip hop music - beats to relax/study to",
+            "owner": {
+                "display_name": "Lofi Girl",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/chilledcow"
+                },
+                "href": "https://api.spotify.com/v1/users/chilledcow",
+                "id": "chilledcow",
+                "type": "user",
+                "uri": "spotify:user:chilledcow"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjAyNSxjNDk5Y2Q4YzI4N2FjN2RlN2Q1ZTU3NTk4Yzc4ZjdiYzkzNjlmZjdj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0vvXsWCC9xrXsKd4FyS8kM/tracks",
+                "total": 309
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0vvXsWCC9xrXsKd4FyS8kM"
+        },
+        {
+            "collaborative": false,
+            "description": "Josh A, Tiagz, Miles Wesley and more",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E36uuiciIK2nJ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E36uuiciIK2nJ",
+            "id": "37i9dQZF1E36uuiciIK2nJ",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://dailymix-images.scdn.co/v2/img/83b7653ba87dad94997aa0d2e5e2ec7721a624fe/6/en/large",
+                    "width": null
+                }
+            ],
+            "name": "Daily Mix 6",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5NDE2MTEsMDAwMDAwMDBkYmY4MDk1NzhjYzZhMjFhYzMxNjUyYjIwYjgzOTZiYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E36uuiciIK2nJ/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E36uuiciIK2nJ"
+        },
+        {
+            "collaborative": false,
+            "description": "Imagine Dragons, GASHI, Arizona Zervas and more",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E39NdVrM3dugh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E39NdVrM3dugh",
+            "id": "37i9dQZF1E39NdVrM3dugh",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://dailymix-images.scdn.co/v2/img/949d57988ca389b49133ebd6f8f99ef96fb52ab8/5/en/large",
+                    "width": null
+                }
+            ],
+            "name": "Daily Mix 5",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5NDE2MTEsMDAwMDAwMDAwZmM3YTc4YzYzMmVhY2FjNmMxYWFjMGJlNzI0MDA2Ng==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E39NdVrM3dugh/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E39NdVrM3dugh"
+        },
+        {
+            "collaborative": false,
+            "description": "Besomorph, Levianth, Layto and more",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E37lfkPIUJFnH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E37lfkPIUJFnH",
+            "id": "37i9dQZF1E37lfkPIUJFnH",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://dailymix-images.scdn.co/v2/img/8054f9a139b5df099dcdae3f5ea8b443a5455b19/2/en/large",
+                    "width": null
+                }
+            ],
+            "name": "Daily Mix 2",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5NDE2MTEsMDAwMDAwMDAyNzNjOWVhZmZlM2MxMzVhMjFiY2U5NTY5MDIwODFmMQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E37lfkPIUJFnH/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E37lfkPIUJFnH"
+        },
+        {
+            "collaborative": false,
+            "description": "Royal & the Serpent, Zedd, SaberZ and more",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E39zbqtiqbfY7"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E39zbqtiqbfY7",
+            "id": "37i9dQZF1E39zbqtiqbfY7",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://dailymix-images.scdn.co/v2/img/2517eea86319ce697faa21ed4e8e0441859aa3be/1/en/large",
+                    "width": null
+                }
+            ],
+            "name": "Daily Mix 1",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5NDE2MTEsMDAwMDAwMDBmYjQyNDI3Zjg3YThlNTZhMDkyZjE4ODgwM2JlNWI3Ng==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E39zbqtiqbfY7/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E39zbqtiqbfY7"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4mZOmMd6qcHB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4mZOmMd6qcHB",
+            "id": "37i9dQZF1E4mZOmMd6qcHB",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/artist/64EHXDoln95lnccszdPum0/en",
+                    "width": null
+                }
+            ],
+            "name": "Royal & the Serpent Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDVlOTI3ZWUxYWYxNWUyOWZkNzVjZDE4NmE2MGUyY2Nl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4mZOmMd6qcHB/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E4mZOmMd6qcHB"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4tfoCRs73fJc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4tfoCRs73fJc",
+            "id": "37i9dQZF1E4tfoCRs73fJc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/artist/0chxndMxE0AhAeYED1Ay9d/en",
+                    "width": null
+                }
+            ],
+            "name": "Matstubs Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMGU4M2Q3Yjk4N2Q1YjI4NDgyMjA5Mzg2ZjU2NmQyZDlm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4tfoCRs73fJc/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E4tfoCRs73fJc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4XyharTMyHOTwjCAUbqUjm"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4XyharTMyHOTwjCAUbqUjm",
+            "id": "4XyharTMyHOTwjCAUbqUjm",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb4181c33240e8fc49abd28068",
+                    "width": null
+                }
+            ],
+            "name": "PLAY: OMEN",
+            "owner": {
+                "display_name": "VALORANT",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/y1l6o99xay9vxht58lt0mpnho"
+                },
+                "href": "https://api.spotify.com/v1/users/y1l6o99xay9vxht58lt0mpnho",
+                "id": "y1l6o99xay9vxht58lt0mpnho",
+                "type": "user",
+                "uri": "spotify:user:y1l6o99xay9vxht58lt0mpnho"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjIsODJmODVlY2I0MjUyYmZmM2U5MDY1MGU4YjBhOGJhYmNmZjY1MGJjMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4XyharTMyHOTwjCAUbqUjm/tracks",
+                "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4XyharTMyHOTwjCAUbqUjm"
+        },
+        {
+            "collaborative": false,
+            "description": "Check out Ed's new track &quot;Afterglow&quot;.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0qyhqmsAfxVzlQiFmILPdG"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0qyhqmsAfxVzlQiFmILPdG",
+            "id": "0qyhqmsAfxVzlQiFmILPdG",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb097237ca0f4e16a11283bbf1",
+                    "width": null
+                }
+            ],
+            "name": "Ed Sheeran Radio",
+            "owner": {
+                "display_name": "Topsify Radio",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/ty5kkq44cnlzzvtwwob36mx4g"
+                },
+                "href": "https://api.spotify.com/v1/users/ty5kkq44cnlzzvtwwob36mx4g",
+                "id": "ty5kkq44cnlzzvtwwob36mx4g",
+                "type": "user",
+                "uri": "spotify:user:ty5kkq44cnlzzvtwwob36mx4g"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NzgsNTFhMTlkN2NhMmE2YTUwZWEwNDI4MTYwNWYzY2QxMzIzODc4YTI1ZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0qyhqmsAfxVzlQiFmILPdG/tracks",
+                "total": 61
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0qyhqmsAfxVzlQiFmILPdG"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8P8YhuVqDB7J"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8P8YhuVqDB7J",
+            "id": "37i9dQZF1E8P8YhuVqDB7J",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/5uQOauh47VFt3B2kV9kRXw/en",
+                    "width": null
+                }
+            ],
+            "name": "My Shit Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMGQ5ZDExMzBjNTk2YjFlYWFiOTIzOTE2ZGI2N2ZlYjQ2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8P8YhuVqDB7J/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8P8YhuVqDB7J"
+        },
+        {
+            "collaborative": false,
+            "description": "A new era of Arcade Racing.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2ky1UP1LJNoEZSKwopjh6O"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2ky1UP1LJNoEZSKwopjh6O",
+            "id": "2ky1UP1LJNoEZSKwopjh6O",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbb8b1e49801742eaa86c007a5",
+                    "width": null
+                }
+            ],
+            "name": "Asphalt 9: Legends - Epic soundtrack",
+            "owner": {
+                "display_name": "d2r3d2",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/d2r3d2"
+                },
+                "href": "https://api.spotify.com/v1/users/d2r3d2",
+                "id": "d2r3d2",
+                "type": "user",
+                "uri": "spotify:user:d2r3d2"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjYsNzYwZDY2MjIwNDdmYjZhZmIxYWRhMDg1Mzg0YTk0ZWY2ZWEyODlmNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2ky1UP1LJNoEZSKwopjh6O/tracks",
+                "total": 38
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2ky1UP1LJNoEZSKwopjh6O"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EM3noo4V9GIaz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM3noo4V9GIaz",
+            "id": "37i9dQZF1EM3noo4V9GIaz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2020",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY3NzQ2NjYsMDAwMDAwMDA0YjVjY2ZkMmQxNmY2MzFlYjU2ODIzNjk1NDdhNzUyMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM3noo4V9GIaz/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EM3noo4V9GIaz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/22PVFQNCI03qIY7lIeMy9m"
+            },
+            "href": "https://api.spotify.com/v1/playlists/22PVFQNCI03qIY7lIeMy9m",
+            "id": "22PVFQNCI03qIY7lIeMy9m",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbc3afc95668283e01d2e5c18b",
+                    "width": null
+                }
+            ],
+            "name": "ASTRONEER",
+            "owner": {
+                "display_name": "z2hjj3mdnpxcfx7i3p0p1o30i",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/z2hjj3mdnpxcfx7i3p0p1o30i"
+                },
+                "href": "https://api.spotify.com/v1/users/z2hjj3mdnpxcfx7i3p0p1o30i",
+                "id": "z2hjj3mdnpxcfx7i3p0p1o30i",
+                "type": "user",
+                "uri": "spotify:user:z2hjj3mdnpxcfx7i3p0p1o30i"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTUsYTU4ZDZhNGQ3ZTk2ZjdjNTBkNjZkMzQ0NTczZWI4ODkyM2YyN2ZhMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/22PVFQNCI03qIY7lIeMy9m/tracks",
+                "total": 43
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:22PVFQNCI03qIY7lIeMy9m"
+        },
+        {
+            "collaborative": false,
+            "description": "Eletr\u00f4nicas 2021 | Eletronicas Academia | Confira os top hits de EDM que 1 MILH\u00c3O de f\u00e3s est\u00e3o escutando! KVSH, Martin Garrix, Calvin Harris, The Chainsmokers, Kygo e mais! \ud83d\udcf7: Alan Walker, Salem Ilese",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0U6RJkZ9aofC9g9dR72hlz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0U6RJkZ9aofC9g9dR72hlz",
+            "id": "0U6RJkZ9aofC9g9dR72hlz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb5cec09402dab89e118cac9df",
+                    "width": null
+                }
+            ],
+            "name": "Eletronicas 2021 | Eletronicas Mais Tocadas | EDM 2021",
+            "owner": {
+                "display_name": "Filtr Brasil\t",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/filtr.br"
+                },
+                "href": "https://api.spotify.com/v1/users/filtr.br",
+                "id": "filtr.br",
+                "type": "user",
+                "uri": "spotify:user:filtr.br"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDk0MCxiMDBiNDdmZDJiOWRkNmY3MTRhMWU3Y2U0OTMyNjQ2N2JkZGVjZmNk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0U6RJkZ9aofC9g9dR72hlz/tracks",
+                "total": 144
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0U6RJkZ9aofC9g9dR72hlz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8NxuVxKWaEXE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8NxuVxKWaEXE",
+            "id": "37i9dQZF1E8NxuVxKWaEXE",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/3CrsuTJomWZmeXIvKhV45l/en",
+                    "width": null
+                }
+            ],
+            "name": "Stronger Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDMyOTYzMzFiN2JiMWZhYmM5MjFmZTllYWRmMjE4ODhh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8NxuVxKWaEXE/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8NxuVxKWaEXE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8MPXWVrXwTup"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8MPXWVrXwTup",
+            "id": "37i9dQZF1E8MPXWVrXwTup",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/5yvjSEYLx7wwPmnhPIIqBr/en",
+                    "width": null
+                }
+            ],
+            "name": "Bad One Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDQwMTZkZjc3MDliMTg1YjUyNWYwY2ZmNTg0ZjU4YTQ5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8MPXWVrXwTup/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8MPXWVrXwTup"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8KjCEmVPa3Jj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KjCEmVPa3Jj",
+            "id": "37i9dQZF1E8KjCEmVPa3Jj",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/7AzlLxHn24DxjgQX73F9fU/en",
+                    "width": null
+                }
+            ],
+            "name": "No Idea Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDRkZTg5YWE1M2I5MjkzMzI0NTgzYjhiM2UyYTU5NWU0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KjCEmVPa3Jj/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8KjCEmVPa3Jj"
+        },
+        {
+            "collaborative": false,
+            "description": "We made you a personalized playlist with songs to take you back in time.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EuItIAGbeTBqh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EuItIAGbeTBqh",
+            "id": "37i9dQZF1EuItIAGbeTBqh",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://daily-mix.scdn.co/covers/time-capsule/time-capsule-blue_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Time Capsule",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NDAwMCwwMDAwMDAwMDI2OGMzNjFjNjBhY2MzODRiMjlkMThjZmI1NWRkNzVj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EuItIAGbeTBqh/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EuItIAGbeTBqh"
+        },
+        {
+            "collaborative": false,
+            "description": "Official <a href=\"https://www.youtube.com/user/OfficialTrapCity\">Trap City</a> playlist with a collection of the best Trap &amp; Bass music on Spotify. But also most of our YouTube uploads, personal favorites and more. Updated weekly. Make sure to follow! \ud83d\udc47",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7Kk0KvfzcaX4QLtli1rIBK"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7Kk0KvfzcaX4QLtli1rIBK",
+            "id": "7Kk0KvfzcaX4QLtli1rIBK",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebba37c09924832e8ed47603733",
+                    "width": null
+                }
+            ],
+            "name": "Trap City",
+            "owner": {
+                "display_name": "Trap City",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/officialtrapcity"
+                },
+                "href": "https://api.spotify.com/v1/users/officialtrapcity",
+                "id": "officialtrapcity",
+                "type": "user",
+                "uri": "spotify:user:officialtrapcity"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTIzMixhYTZiMzBmMWQ4MmY0OGYyZWE1OGE5N2M1OTUwMGQ5MmNiMzdlMmUx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7Kk0KvfzcaX4QLtli1rIBK/tracks",
+                "total": 84
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7Kk0KvfzcaX4QLtli1rIBK"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8Hf7on21HgOC"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Hf7on21HgOC",
+            "id": "37i9dQZF1E8Hf7on21HgOC",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/39LJCSHy7nB1akjmhMQ7Y7/en",
+                    "width": null
+                }
+            ],
+            "name": "Pain Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDFiNjlhMzBmMDk0MGExMjA2ZWNkOGNjNDUyZGYyMWJm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Hf7on21HgOC/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8Hf7on21HgOC"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/33jgz9Mhtq5IdkEjIB9sze"
+            },
+            "href": "https://api.spotify.com/v1/playlists/33jgz9Mhtq5IdkEjIB9sze",
+            "id": "33jgz9Mhtq5IdkEjIB9sze",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be40db9742304ec8392767a2",
+                    "width": 640
+                }
+            ],
+            "name": "NEFFEX ",
+            "owner": {
+                "display_name": "bruxobum13",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+                },
+                "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+                "id": "lje4xcplk8eowol9u1n0gmiqo",
+                "type": "user",
+                "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MywyMmFjOGM3MzIxZWFkNGI1YzMyY2EyMGI1ODFmMzNmOTFhY2FjNGM0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/33jgz9Mhtq5IdkEjIB9sze/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:33jgz9Mhtq5IdkEjIB9sze"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7enUd2kkn1q0iSqME6M9bj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7enUd2kkn1q0iSqME6M9bj",
+            "id": "7enUd2kkn1q0iSqME6M9bj",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbb3ee1c014444353201e56f17",
+                    "width": null
+                }
+            ],
+            "name": "Hackerman",
+            "owner": {
+                "display_name": "pedropithan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/pedropithan"
+                },
+                "href": "https://api.spotify.com/v1/users/pedropithan",
+                "id": "pedropithan",
+                "type": "user",
+                "uri": "spotify:user:pedropithan"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NTgsYjQzYTFkMjBkZmFlMWNkNjQ3ZTg0MGE2ZDE0MTk4OGUzZTM3MjUxZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7enUd2kkn1q0iSqME6M9bj/tracks",
+                "total": 45
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7enUd2kkn1q0iSqME6M9bj"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2F9CVqHw7C3cWk1uClHnXg"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2F9CVqHw7C3cWk1uClHnXg",
+            "id": "2F9CVqHw7C3cWk1uClHnXg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a8cc1dc94b15b17381eff71ab67616d0000b2733a209aacf2b60ae1053b22e6ab67616d0000b2738c77bcf5f5a227d270d23370ab67616d0000b273bd02d63417be256b22bffc28",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a8cc1dc94b15b17381eff71ab67616d0000b2733a209aacf2b60ae1053b22e6ab67616d0000b2738c77bcf5f5a227d270d23370ab67616d0000b273bd02d63417be256b22bffc28",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a8cc1dc94b15b17381eff71ab67616d0000b2733a209aacf2b60ae1053b22e6ab67616d0000b2738c77bcf5f5a227d270d23370ab67616d0000b273bd02d63417be256b22bffc28",
+                    "width": 60
+                }
+            ],
+            "name": "Curtidas na R\u00e1dio",
+            "owner": {
+                "display_name": "bruxobum13",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+                },
+                "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+                "id": "lje4xcplk8eowol9u1n0gmiqo",
+                "type": "user",
+                "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjMxLDc0NTVhMzk5MmViYjAxYWFjMjFiNTQ2MzNhY2Q2M2IzNmYxNzE2NTQ=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2F9CVqHw7C3cWk1uClHnXg/tracks",
+                "total": 228
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2F9CVqHw7C3cWk1uClHnXg"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8DXpiU35Ww9a"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8DXpiU35Ww9a",
+            "id": "37i9dQZF1E8DXpiU35Ww9a",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/4zTPYAf5scZdp0LnwPPeWK/en",
+                    "width": null
+                }
+            ],
+            "name": "Deep End Freestyle Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDJjMDllOGQ1MTczOTNjMGE4YjcyMzZjNDY3MzBmZDJk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8DXpiU35Ww9a/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8DXpiU35Ww9a"
+        },
+        {
+            "collaborative": false,
+            "description": "Viral, trending and taking off.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2L0iB23Enbq",
+            "id": "37i9dQZF1DX2L0iB23Enbq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f000000036bdff7dc0e53fe6ca17749b5",
+                    "width": null
+                }
+            ],
+            "name": "Viral Hits",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjQ1NjA0MiwwMDAwMDE2ZjAwMDAwMTc4NWM0OWM3M2EwMDAwMDE3NGQ1OWNhOTM1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2L0iB23Enbq/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX2L0iB23Enbq"
+        },
+        {
+            "collaborative": false,
+            "description": "@trapics7",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/43RYqmR4cmQRmRwtfiuYWz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/43RYqmR4cmQRmRwtfiuYWz",
+            "id": "43RYqmR4cmQRmRwtfiuYWz",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb91b812822580a0a3f545214d",
+                    "width": null
+                }
+            ],
+            "name": "\uff34\uff52\uff41\uff50  \uff50\uff49\uff43\uff53 \ud83d\udd25",
+            "owner": {
+                "display_name": "Trapics7",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/21j3zufw4yimpafz2jp26xmey"
+                },
+                "href": "https://api.spotify.com/v1/users/21j3zufw4yimpafz2jp26xmey",
+                "id": "21j3zufw4yimpafz2jp26xmey",
+                "type": "user",
+                "uri": "spotify:user:21j3zufw4yimpafz2jp26xmey"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTY1MSwzZGNkZTNiMGJjNTRhZWNlZGJkNDY5ZmFmM2NkNWE0MDM5MjEwY2U0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/43RYqmR4cmQRmRwtfiuYWz/tracks",
+                "total": 219
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:43RYqmR4cmQRmRwtfiuYWz"
+        },
+        {
+            "collaborative": false,
+            "description": "This is AJR. The essential tracks, all in one playlist.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Oe9Dq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3Oe9Dq",
+            "id": "37i9dQZF1DZ06evO3Oe9Dq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO3Oe9Dq-large.jpg",
+                    "width": null
+                }
+            ],
+            "name": "This Is AJR",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5NDE2ODgsMDAwMDAwMDA4ZjhkMWRlNTIzYzYyYzNjYjg3NjdhOGM2ZTk5M2E0ZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3Oe9Dq/tracks",
+                "total": 37
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO3Oe9Dq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8PSfmxo3cqcZ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8PSfmxo3cqcZ",
+            "id": "37i9dQZF1E8PSfmxo3cqcZ",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/32nxBbsr1DVjl8Wk8XxWqF/en",
+                    "width": null
+                }
+            ],
+            "name": "Super Xan Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDA5MDQxNmU5YmYyOTdhNTE2OTY2NDdhM2MwNDA1MjI3",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8PSfmxo3cqcZ/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8PSfmxo3cqcZ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8J4pttFAtZKA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8J4pttFAtZKA",
+            "id": "37i9dQZF1E8J4pttFAtZKA",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/0JITWDB1tVUH2VUXmVtYpL/en",
+                    "width": null
+                }
+            ],
+            "name": "Sunburn Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDJkNWZiZDAzZjlmOTQ5NGZmOGQyMDIxNDhiNjdiYjYx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8J4pttFAtZKA/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8J4pttFAtZKA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8Bi1q5Jlv8mL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Bi1q5Jlv8mL",
+            "id": "37i9dQZF1E8Bi1q5Jlv8mL",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/6ap9lSRJ0iLriGLqoJ44cq/en",
+                    "width": null
+                }
+            ],
+            "name": "CITY OF ANGELS Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDZkYTVlOWQ5NzNiYTUyMzUxMTI0Y2U2YzRjYjA4NDRl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Bi1q5Jlv8mL/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8Bi1q5Jlv8mL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8Bbqe3Jcyh1r"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Bbqe3Jcyh1r",
+            "id": "37i9dQZF1E8Bbqe3Jcyh1r",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/5yKHRBl4G8Yz0bxu77Szql/en",
+                    "width": null
+                }
+            ],
+            "name": "Lil Me Too Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDcyZWJlYmZkYjE4ZjVlZjhmMjBmMzNhMmViMjlhNTRm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8Bbqe3Jcyh1r/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8Bbqe3Jcyh1r"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8DzuRYmxzb8t"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8DzuRYmxzb8t",
+            "id": "37i9dQZF1E8DzuRYmxzb8t",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/7MiZjKawmXTsTNePyTfPyL/en",
+                    "width": null
+                }
+            ],
+            "name": "Devil Eyes Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDQyYjdmZjY4ODNiMzhkZjU2ZDEyOGQ5YmE0OGYyM2Y3",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8DzuRYmxzb8t/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8DzuRYmxzb8t"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8EUMeph3ckmW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8EUMeph3ckmW",
+            "id": "37i9dQZF1E8EUMeph3ckmW",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/7aiClxsDWFRQ0Kzk5KI5ku/en",
+                    "width": null
+                }
+            ],
+            "name": "hot girl bummer Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDAyZDdmYTg1MzU2ZWE4NzBmNjJhOGUyMDRjZGYzZmU1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8EUMeph3ckmW/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8EUMeph3ckmW"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8KfQBwbami7R"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KfQBwbami7R",
+            "id": "37i9dQZF1E8KfQBwbami7R",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/1xFfbxmfenEpn4WawGWXiA/en",
+                    "width": null
+                }
+            ],
+            "name": "Walk Man Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDdjMDZlNGQ4ZjU2MjE2OWE2MTY5OGU4ZjRiZDllOTNk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KfQBwbami7R/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8KfQBwbami7R"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4xXVXRk65qTS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4xXVXRk65qTS",
+            "id": "37i9dQZF1E4xXVXRk65qTS",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/artist/6s22t5Y3prQHyaHWUN1R1C/en",
+                    "width": null
+                }
+            ],
+            "name": "AJR Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDY0ODllYWYzZmEzMzk4ODRlNGJiMWE1ZTY0MjdiYjIx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4xXVXRk65qTS/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E4xXVXRk65qTS"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8JJ3x01ULaFu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8JJ3x01ULaFu",
+            "id": "37i9dQZF1E8JJ3x01ULaFu",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/0m7TguDgLue2LCaDF7B4qx/en",
+                    "width": null
+                }
+            ],
+            "name": "Bang! Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDNmMDNmMDJjNzUzNTBmODExMzk3YTM2ZjY4ZDEwMWVm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8JJ3x01ULaFu/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8JJ3x01ULaFu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4uZMd3IA0TAC"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4uZMd3IA0TAC",
+            "id": "37i9dQZF1E4uZMd3IA0TAC",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/artist/7EyzyrMNgqiK8bMrbkOT9l/en",
+                    "width": null
+                }
+            ],
+            "name": "Sidoka Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMDUxNTJlMDk5YjE2NTUwYzY2NDUwMzIwZTlhYjJkY2E5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4uZMd3IA0TAC/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E4uZMd3IA0TAC"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/07xyM9Wut6xYxp5xfaBxFC"
+            },
+            "href": "https://api.spotify.com/v1/playlists/07xyM9Wut6xYxp5xfaBxFC",
+            "id": "07xyM9Wut6xYxp5xfaBxFC",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb1c604dddb3f2907d02daa30f",
+                    "width": null
+                }
+            ],
+            "name": "Fragile World (From \"Shadowhunters: The Mortal Instruments\"/Soundtrack Version) \u2013 Alberto Rosende",
+            "owner": {
+                "display_name": "chrischka066",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/chrischka066"
+                },
+                "href": "https://api.spotify.com/v1/users/chrischka066",
+                "id": "chrischka066",
+                "type": "user",
+                "uri": "spotify:user:chrischka066"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NjUsM2FiZDY5M2RlNTZkMWI5YWRjYThhMmVkMWMxYzljODc1NGQ1NGExMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/07xyM9Wut6xYxp5xfaBxFC/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:07xyM9Wut6xYxp5xfaBxFC"
+        },
+        {
+            "collaborative": false,
+            "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbctkfglfXBp5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbctkfglfXBp5",
+            "id": "37i9dQZEVXbctkfglfXBp5",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://newjams-images.scdn.co/v3/release-radar/3fa66851761354ff1900b9a41f57c9a748bfa780/en/large",
+                    "width": null
+                }
+            ],
+            "name": "Release Radar",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjY5MzUzMjAsMDAwMDAwMDA5NDk0NjIwMGNhMmM2OWVkOGQxN2JjNDExMGViMDBhYw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbctkfglfXBp5/tracks",
+                "total": 30
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZEVXbctkfglfXBp5"
+        },
+        {
+            "collaborative": false,
+            "description": " Os melhores beats da pista est\u00e3o aqui, pra voc\u00ea curtir o ano todo! Ou\u00e7a Tiesto e Mabel, Jonas Blue &amp; HRVY, Bruno Martini, Zeeba, Marshmello, DJ Snake, Avicii e muito mais! Foto: Bruno Martini, Lu\u00edsa Sonza, Diarra Sylla",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0ncfeoyoiOtHvB19us8USi"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0ncfeoyoiOtHvB19us8USi",
+            "id": "0ncfeoyoiOtHvB19us8USi",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebbd5db18fff82a0f984c57c173",
+                    "width": null
+                }
+            ],
+            "name": "Dance Hits 2021 | EDM | M\u00fasica Eletr\u00f4nica | Electronic Music Dance | Hits Eletr\u00f4nicos",
+            "owner": {
+                "display_name": "UMUSIC Play",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/digster_brasil"
+                },
+                "href": "https://api.spotify.com/v1/users/digster_brasil",
+                "id": "digster_brasil",
+                "type": "user",
+                "uri": "spotify:user:digster_brasil"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTQ0NSxmYzRhYzRjMDMxZTRlOTk2MmIwOWUzY2FmYmQzYWRhYTM3ZDViMzgy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0ncfeoyoiOtHvB19us8USi/tracks",
+                "total": 137
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0ncfeoyoiOtHvB19us8USi"
+        },
+        {
+            "collaborative": false,
+            "description": "Your past favorites",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EpHJXHR6sf7D7"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpHJXHR6sf7D7",
+            "id": "37i9dQZF1EpHJXHR6sf7D7",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Repeat Rewind",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjQ5NjY3NiwwMDAwMDAwMDZhNjdhZWM0NTdhYjUzMmM2MWJkZDBhYTFiMTI5NzQw",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpHJXHR6sf7D7/tracks",
+                "total": 30
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EpHJXHR6sf7D7"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1Eth0f9TlVWoI0"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Eth0f9TlVWoI0",
+            "id": "37i9dQZF1Eth0f9TlVWoI0",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/your-top-songs-2019_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2019",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjYyNjk2NTAsMDAwMDAwMDAwYzAwZDg4NzQ0NWFjMGMzMjhlZDIxOThkOWRkMDRmNA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Eth0f9TlVWoI0/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1Eth0f9TlVWoI0"
+        },
+        {
+            "collaborative": false,
+            "description": " ",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7zOEkzRAcpVLR3a97fmEBj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7zOEkzRAcpVLR3a97fmEBj",
+            "id": "7zOEkzRAcpVLR3a97fmEBj",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706c0000bebb9238d16cfdb3646fb44b8e97",
+                    "width": null
+                }
+            ],
+            "name": "Shouse - Love Tonight \u2022 Vintage Culture",
+            "owner": {
+                "display_name": "Thomas Geller",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/thomasgeller"
+                },
+                "href": "https://api.spotify.com/v1/users/thomasgeller",
+                "id": "thomasgeller",
+                "type": "user",
+                "uri": "spotify:user:thomasgeller"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTI3NSw1NzRmNWFlMDhlNzI3YzYzMWVhMjBmODVjYmE0OGViNTI1NzcwMjNh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7zOEkzRAcpVLR3a97fmEBj/tracks",
+                "total": 152
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7zOEkzRAcpVLR3a97fmEBj"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8AFVXHs1il8F"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8AFVXHs1il8F",
+            "id": "37i9dQZF1E8AFVXHs1il8F",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://seeded-session-images.scdn.co/v1/img/track/3I4CXyGpdDSQpFUbL0sQnH/en",
+                    "width": null
+                }
+            ],
+            "name": "Pretender Radio",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTYxNjU0NzAyOSwwMDAwMDAwMGVjZTg4OWU2NGQzMGRlZmViMWY2NDQ0ZGY5NTA4NDQ4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8AFVXHs1il8F/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1E8AFVXHs1il8F"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1Ejdw3C3KTU55h"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ejdw3C3KTU55h",
+            "id": "37i9dQZF1Ejdw3C3KTU55h",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/your-top-songs-2018_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2018",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MjU3NjA4NTIsMDAwMDAwMDAzOThlNGM2NmE3MGRmN2MzNWMyOTJkMGI3ZGYzYTIzZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ejdw3C3KTU55h/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1Ejdw3C3KTU55h"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/40CxIzLEkg1KXhgNmclpLI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/40CxIzLEkg1KXhgNmclpLI",
+            "id": "40CxIzLEkg1KXhgNmclpLI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27320aefe79f652f0e58e2b2434ab67616d0000b2738fd3753c16c3992b8f401418ab67616d0000b273afe34be78c3d878a167e2bdaab67616d0000b273cb4ec52c48a6b071ed2ab6bc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27320aefe79f652f0e58e2b2434ab67616d0000b2738fd3753c16c3992b8f401418ab67616d0000b273afe34be78c3d878a167e2bdaab67616d0000b273cb4ec52c48a6b071ed2ab6bc",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27320aefe79f652f0e58e2b2434ab67616d0000b2738fd3753c16c3992b8f401418ab67616d0000b273afe34be78c3d878a167e2bdaab67616d0000b273cb4ec52c48a6b071ed2ab6bc",
+                    "width": 60
+                }
+            ],
+            "name": "Top",
+            "owner": {
+                "display_name": "bruxobum13",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+                },
+                "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+                "id": "lje4xcplk8eowol9u1n0gmiqo",
+                "type": "user",
+                "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzI3LDFkMzQ3OGQwMzg2YTc3ZDU5NmNlNjk2MjIxYjAwNWVkYzVjZmQxNzQ=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/40CxIzLEkg1KXhgNmclpLI/tracks",
+                "total": 326
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:40CxIzLEkg1KXhgNmclpLI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0Yyzwmom06hixk1tdV4z9k"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0Yyzwmom06hixk1tdV4z9k",
+            "id": "0Yyzwmom06hixk1tdV4z9k",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27309641cc11bfab19e890bbf58ab67616d0000b273198b0172e47844b1c8a23886ab67616d0000b27320322645c7e2e28c9d50beaeab67616d0000b27346571bebf5edde9d9ad4b8e5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27309641cc11bfab19e890bbf58ab67616d0000b273198b0172e47844b1c8a23886ab67616d0000b27320322645c7e2e28c9d50beaeab67616d0000b27346571bebf5edde9d9ad4b8e5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27309641cc11bfab19e890bbf58ab67616d0000b273198b0172e47844b1c8a23886ab67616d0000b27320322645c7e2e28c9d50beaeab67616d0000b27346571bebf5edde9d9ad4b8e5",
+                    "width": 60
+                }
+            ],
+            "name": "D Rose \u2013 Lil Pump",
+            "owner": {
+                "display_name": "mega_faggot-911",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/mega_faggot-911"
+                },
+                "href": "https://api.spotify.com/v1/users/mega_faggot-911",
+                "id": "mega_faggot-911",
+                "type": "user",
+                "uri": "spotify:user:mega_faggot-911"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "NDQ1LDI2ZGJkODdkYzgzZGZiZjQwNTNiMDU3NmY5MGRjNTI5M2JiYmEzOGI=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0Yyzwmom06hixk1tdV4z9k/tracks",
+                "total": 365
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0Yyzwmom06hixk1tdV4z9k"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3oMLjzXw5ZQyEEdoYtTNBP"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3oMLjzXw5ZQyEEdoYtTNBP",
+            "id": "3oMLjzXw5ZQyEEdoYtTNBP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730574849f76d76b5c1ab895dbab67616d0000b2734d3cebcb4962613998ad3b8eab67616d0000b27376792e67545546e2ef80bb5eab67616d0000b27384f2272355353209954681ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730574849f76d76b5c1ab895dbab67616d0000b2734d3cebcb4962613998ad3b8eab67616d0000b27376792e67545546e2ef80bb5eab67616d0000b27384f2272355353209954681ed",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730574849f76d76b5c1ab895dbab67616d0000b2734d3cebcb4962613998ad3b8eab67616d0000b27376792e67545546e2ef80bb5eab67616d0000b27384f2272355353209954681ed",
+                    "width": 60
+                }
+            ],
+            "name": "s. lyre \u2013 singing in my room",
+            "owner": {
+                "display_name": "bruxobum13",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+                },
+                "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+                "id": "lje4xcplk8eowol9u1n0gmiqo",
+                "type": "user",
+                "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Nyw4Y2Q5NDYyMjUyMDA5ZjRkYjFiYmI5ZGM5YzdhN2IwYmVlMWVhZGRj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3oMLjzXw5ZQyEEdoYtTNBP/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3oMLjzXw5ZQyEEdoYtTNBP"
+        }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 53
+}

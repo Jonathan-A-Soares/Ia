@@ -1,0 +1,13 @@
+{
+    "Domain": "192.168.0.1",
+    "Ip": "192.168.0.1",
+    "Ping-Min": 1.982,
+    "Ping-Avg": 2.675,
+    "Ping-Max": 4.985,
+    "PacketsSent": 32,
+    "PacketsReceived": 32,
+    "Loss": 0.0,
+    "Accessible host": true,
+    "Date": "04/04/21",
+    "hora": "21:11:20"
+}

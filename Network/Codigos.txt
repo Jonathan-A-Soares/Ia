@@ -1,0 +1,12 @@
+Ok = Funçao executada com sucesso
+Cod:
+551 = Tentou cria Pasta ja Existente
+359 = Usuario sem Administração
+703 = AttributeError Erro de atribuição de ip
+200 =
+985
+474
+416
+729
+405
+384

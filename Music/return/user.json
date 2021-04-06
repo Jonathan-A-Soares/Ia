@@ -1,0 +1,21 @@
+{
+    "display_name": "bruxobum13",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/lje4xcplk8eowol9u1n0gmiqo"
+    },
+    "followers": {
+        "href": null,
+        "total": 3
+    },
+    "href": "https://api.spotify.com/v1/users/lje4xcplk8eowol9u1n0gmiqo",
+    "id": "lje4xcplk8eowol9u1n0gmiqo",
+    "images": [
+        {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab6775700000ee85fb31efb555da51a1d3486915",
+            "width": null
+        }
+    ],
+    "type": "user",
+    "uri": "spotify:user:lje4xcplk8eowol9u1n0gmiqo"
+}

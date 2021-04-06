@@ -1,0 +1,20 @@
+{
+    "Scan1": {
+        "Ip": "192.168.0.1",
+        "Status": true,
+        "mac": "10:fe:ed:87:17:52",
+        "fabri": "TP-LINK TECHNOLOGIES CO.,LTD."
+    },
+    "Scan2": {
+        "Ip": "192.168.0.103",
+        "Status": true,
+        "mac": "38:80:df:a7:1f:07",
+        "fabri": "Motorola Mobility LLC, a Lenovo Company"
+    },
+    "Scan3": {
+        "Ip": "192.168.0.144",
+        "Status": true,
+        "mac": "00:05:16:64:a8:a9",
+        "fabri": "SMART Modular Technologies"
+    }
+}

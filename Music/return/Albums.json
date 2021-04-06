@@ -1,0 +1,68 @@
+{
+    "album1": {
+        "name": "H\u00edbrido",
+        "date": "2021-02-26T02:58:30Z",
+        "music": 10,
+        "uri": "spotify:album:5Jbiw69yGe9uAJ7ElPfPep"
+    },
+    "album2": {
+        "name": "Best of Me: The Collection",
+        "date": "2020-09-16T18:34:24Z",
+        "music": 16,
+        "uri": "spotify:album:266JTS4Oz0atn6EwRcvCrJ"
+    },
+    "album3": {
+        "name": "Thrill Seeker",
+        "date": "2020-08-18T03:57:05Z",
+        "music": 7,
+        "uri": "spotify:album:0PTvzABaWDvafuJ8MZplha"
+    },
+    "album4": {
+        "name": "Providence",
+        "date": "2020-08-18T03:56:43Z",
+        "music": 11,
+        "uri": "spotify:album:1RVXVo1puacM8aQ6hgQahi"
+    },
+    "album5": {
+        "name": "Puxa Penas",
+        "date": "2020-07-06T19:49:26Z",
+        "music": 1,
+        "uri": "spotify:album:4bkHj1dZp00a6qDV1fPAh6"
+    },
+    "album6": {
+        "name": "Bang! (Remix)",
+        "date": "2020-06-05T16:42:15Z",
+        "music": 1,
+        "uri": "spotify:album:1ShrTbi3qkYsGm6LSvCsag"
+    },
+    "album7": {
+        "name": "Vacants (Deluxe Edition)",
+        "date": "2020-05-09T23:55:57Z",
+        "music": 23,
+        "uri": "spotify:album:23EOyjnP1w0mP8LCGOAitG"
+    },
+    "album8": {
+        "name": "ATLAS (Deluxe)",
+        "date": "2019-09-21T20:15:50Z",
+        "music": 28,
+        "uri": "spotify:album:2estDSavGQ2q3IHLbzxkSE"
+    },
+    "album9": {
+        "name": "Hello",
+        "date": "2019-07-26T00:15:46Z",
+        "music": 1,
+        "uri": "spotify:album:7lZoV4KNsiutw9uTkbZwnA"
+    },
+    "album10": {
+        "name": "Beijo Com Trap (MOJJO Remix)",
+        "date": "2019-07-17T13:06:35Z",
+        "music": 1,
+        "uri": "spotify:album:0W5eikwXspwE3yYxr4SBgI"
+    },
+    "album11": {
+        "name": "Thoughts",
+        "date": "2019-05-20T23:24:52Z",
+        "music": 1,
+        "uri": "spotify:album:6S9IsagBCPGvXVlbxp0JUk"
+    }
+}
