@@ -1,2 +1,8 @@
-# Ia
-Codigos para Inteligencia artificial De assitente pessoal Em python
+
+## Objetos em desenvolvimento para Uma IA 
+### Python orientado a objeto
+---
+- Este objetos em python estao em desenvolvimento Para projeto de inteligencia artificial de automação residencial projeto pessoal para assitencia pessoal
+---
+- [pip install -r requirements.txt]()
+---
