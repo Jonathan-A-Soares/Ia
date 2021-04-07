@@ -1,10 +1,8 @@
 import requests
 import json
 
-Key = "4358E2CD15E421362AFA953DE781B720"
-luck = "76561198355142462"
-bruxo = "76561198826208472"
-julio = "76561198401865562"
+Key = "xx"
+
 
 def librarySteam(key,Sid):
     r = requests.get(
