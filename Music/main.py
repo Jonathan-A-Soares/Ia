@@ -5,10 +5,10 @@ import time
 
 
 token = spotipy.util.prompt_for_user_token(
-    username="bruxobum13", #* Troque aki usarname
+    username="user", #* Troque aki usarname
     scope="ugc-image-upload, playlist-modify-private, playlist-read-private, user-read-private, user-read-playback-state, user-library-modify, user-read-playback-position, app-remote-control, user-read-recently-played, user-modify-playback-state, user-read-email, user-follow-modify, playlist-modify-public, user-follow-read, user-read-currently-playing, playlist-read-collaborative, user-library-read, streaming, user-top-read,", #tipo da permissão
-    client_id="248643fa36634bff88e2403d00490b1b", 
-    client_secret="717f423495df4b83b4db477ec0392f93", 
+    client_id="xxx", 
+    client_secret="xxx", 
     redirect_uri="http://localhost:8800")
 
 sp = spotipy.Spotify(auth = token)
